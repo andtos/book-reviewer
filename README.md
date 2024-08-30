@@ -10,6 +10,6 @@ Potential Improvements:
     The current training dataset was all labeled by hand by me, so it is very small. Increasing the size of the training dataset would allow the model to be more consistent. Another issue, is the reviews are often mixed with summariziations of the book or other noise. This leads to the sentiment analysis being thrown off as positive or neagtive words might be used, but not in reference to the rating of the book. 
 
 Necessary libraries:
-    -selenium
-    -transformers
-    -torch
+    selenium
+    transformers
+    torch
